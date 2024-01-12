@@ -31,6 +31,14 @@
          "Nspecification":"",
          "Xposition":"7 ",
          "Yposition":"2"
+      },
+      {
+         "objectType":"airQuality",
+         "capability1":"",
+         "capability2":"",
+         "Nspecification":"",
+         "Xposition":"9 ",
+         "Yposition":"2"
       }
    ]
 }
